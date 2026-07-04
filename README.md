@@ -1,73 +1,45 @@
-# 👋 Hi, I'm Prema Lalitha
+# Hi, I'm Prema Lalitha 👋
 
-* 🎓 Computer Science Engineering Student
-* 📍 Tamil Nadu, India
-* 💡 Passionate about Business Analytics, Data Analysis, Machine Learning, and Full-Stack Web Development.
-* 🌱 Always learning new technologies and building practical projects that solve real-world problems.
+Final-year Computer Science Engineering student focused on **Data Analytics, Business Intelligence, and Machine Learning** — I like turning raw data into dashboards and decisions people can actually use.
 
----
-
-## 🚀 About Me
-
-* 🎓 Computer Science Engineering Student
-* 💻 Interested in Business Analytics, Data Analytics, and Software Development
-* 📊 Skilled in Python, SQL, Java, HTML, CSS, JavaScript
-* 📈 Exploring Machine Learning and Data Visualization
-* 🌐 Building web applications and analytics dashboards
-* 🎯 Goal: Become a Business Analyst and Data Professional
+- 🎓 B.E. CSE, National Engineering College, Kovilpatti (2023–2027)
+- 📊 Currently building an EV market intelligence & forecasting platform as my final-year project
+- 🏆 1st Place — AI Agentic Hackathon, IIT Mandi & KR Innovation Center
+- 📫 Reach me: premalalitha08@gmail.com | [LinkedIn](https://linkedin.com/in/prema-lalitha-b)
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Projects
 
+**[Aadhaar Insight](#)** — Analytics platform processing Aadhaar registration data to surface demographic trends and forecast future voter enrollment. Built with Python, Pandas, and interactive Streamlit dashboards.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:premalalitha08@gmail.com)
+**[ReferShelf](#)** — MERN-stack educational resource sharing platform with search, filtering, categorization, Google OAuth login, and usage analytics.
+
+**[CodePrism](#)** — Code visualization tool that turns codebases into interactive architecture and dependency diagrams, using React Flow, Graphviz, and the VS Code Extension API.
+
+**[CakeVerse](#)** — React + Vite recipe discovery app with a Tamil Nadu regional flavor, using TheMealDB API and OpenStreetMap for nearby bakery discovery.
+
+*(Replace the `#` links above with your actual repo URLs)*
 
 ---
 
-# 💻 Tech Stack
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, SQL, JavaScript
+**Data/ML:** Pandas, NumPy, Scikit-learn, Matplotlib
+**Tools & Platforms:** MySQL, MongoDB, Power BI, Looker Studio, Git, GitHub, Docker
+**Web:** React.js, Node.js, HTML5, CSS3
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,git,github,vscode,pandas,numpy" />
-
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,mongodb,react,nodejs,git,github,vscode" />
 </p>
 
 ---
 
-# 👀 Profile Views
+## 📌 What I'm working on now
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=PremaLalitha&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PremaLalitha&theme=tokyonight"/>
-
-</p>
+Building an EV Intelligence Platform — a multi-source BI and forecasting system for India's EV market — as my capstone project. Open to Data Analyst / Business Analyst fresher roles.
 
 ---
 
-# 🛠 Tools & Technologies
-
-* Visual Studio Code
-* Git & GitHub
-* Jupyter Notebook
-* MySQL
-* Excel
-* Power BI
-* Google Colab
-* Looker Studio
-
----
-
-## ✨ Quote
-
-> "Learning never stops. Every project is a step toward becoming a better developer."
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thanks for stopping by — feel free to explore my repos or reach out.
