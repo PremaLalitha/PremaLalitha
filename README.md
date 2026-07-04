@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Prema Lalitha
 
-🎓 Computer Science Engineering Student
-📍 Tamil Nadu, India
-💡 Passionate about Business Analytics, Data Analysis, Machine Learning, and Full-Stack Web Development.
-🌱 Always learning new technologies and building practical projects that solve real-world problems.
+*🎓 Computer Science Engineering Student
+*📍 Tamil Nadu, India
+*💡 Passionate about Business Analytics, Data Analysis, Machine Learning, and Full-Stack Web Development.
+*🌱 Always learning new technologies and building practical projects that solve real-world problems.
 
 ---
 
@@ -35,17 +35,13 @@
 
 ---
 
-# 📈 GitHub Stats
+# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PremaLalitha&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremaLalitha&layout=compact&theme=tokyonight"/>
+<img src="https://komarev.com/ghpvc/?username=PremaLalitha&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
-
----
 
 # 🔥 GitHub Streak
 
