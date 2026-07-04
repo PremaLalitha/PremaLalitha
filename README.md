@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Prema Lalitha
 
-*🎓 Computer Science Engineering Student
-*📍 Tamil Nadu, India
-*💡 Passionate about Business Analytics, Data Analysis, Machine Learning, and Full-Stack Web Development.
-*🌱 Always learning new technologies and building practical projects that solve real-world problems.
+* 🎓 Computer Science Engineering Student
+* 📍 Tamil Nadu, India
+* 💡 Passionate about Business Analytics, Data Analysis, Machine Learning, and Full-Stack Web Development.
+* 🌱 Always learning new technologies and building practical projects that solve real-world problems.
 
 ---
 
